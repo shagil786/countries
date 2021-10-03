@@ -1802,7 +1802,7 @@
 		"name": {
 			"common": "Antarctica",
 			"official": "Antarctica",
-			"nativeName": []
+			"nativeName": {}
 		},
 		"tld": [
 			".aq"
@@ -1825,7 +1825,7 @@
 		],
 		"region": "Antarctic",
 		"subregion": "",
-		"languages": [],
+		"languages": {},
 		"translations": {
 			"ces": {
 				"official": "Antarktida",
